@@ -80,6 +80,3 @@ The dataset includes the following fields:
 - Tracked revenue growth trends over time
 
 
-
-```markdown
-![Dashboard Screenshot](images/dashboard.png)
