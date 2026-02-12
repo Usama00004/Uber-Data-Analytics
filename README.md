@@ -6,7 +6,7 @@ The **Uber Data Analytics Dashboard** is an interactive business intelligence re
 
 This dashboard transforms raw trip data into meaningful insights that help understand ride patterns, revenue performance, peak demand hours, and location-based trends.
 
-![Project Architecture](https://github.com/Usama00004/NVH-Analysis-Report/blob/main/Images/architecture.jpg)
+![Project Architecture](https://github.com/Usama00004/Uber-Data-Analytics/blob/main/Project%20Image.jpg)
 
 -
 
