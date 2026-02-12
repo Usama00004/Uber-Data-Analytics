@@ -8,7 +8,11 @@ This dashboard transforms raw trip data into meaningful insights that help under
 
 ![Project Architecture](https://github.com/Usama00004/Uber-Data-Analytics/blob/main/Project%20Image.jpg)
 
-[View Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZTBmYmFjNjgtYTMxZi00NGRkLTk2YTktYzY5ZGE4NzhjYjg3IiwidCI6IjM1Yzc2ZjdjLTFiNzUtNDVjMS1hNDFkLTlmNjQ4ODUyZTNhNSIsImMiOjl9)
+<p align="center">
+  <a href="https://app.powerbi.com/view?r=eyJrIjoiZTBmYmFjNjgtYTMxZi00NGRkLTk2YTktYzY5ZGE4NzhjYjg3IiwidCI6IjM1Yzc2ZjdjLTFiNzUtNDVjMS1hNDFkLTlmNjQ4ODUyZTNhNSIsImMiOjl9">
+    <strong> View Live Dashboard</strong>
+  </a>
+</p>
 ##  Dashboard Features
 
 ### 1️ Trip Analysis
