@@ -23,7 +23,7 @@ This dashboard transforms raw trip data into meaningful insights that help under
 - Day-wise and Weekday Trends
 
 ### 2️ Revenue Insights
-- Total Revenue
+- Total Revenue 
 - Average Fare per Trip
 - Revenue Trends Over Time
 - Revenue by Ride Category
