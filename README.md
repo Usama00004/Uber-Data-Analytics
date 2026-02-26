@@ -1,6 +1,6 @@
 # Uber Data Analytics 
 
-## Project Overview
+## Project Overview 
 
 The **Uber Data Analytics Dashboard** is an interactive business intelligence report built using **Microsoft Power BI** to analyze Uber ride data.  
 
